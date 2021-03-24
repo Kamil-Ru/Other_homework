@@ -1,4 +1,4 @@
-Python homework exercises on GIT
+Python homework and exercises on GIT
 
 Git: making branch, pull, push, merging.
 
